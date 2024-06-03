@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Mansoor Hussain 👋
 
-<!--
-**MansoorHussain12/MansoorHussain12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Junior Full Stack Developer passionate about creating efficient and user-friendly applications. I enjoy working with both front-end and back-end technologies, constantly learning and improving my skills.
 
-Here are some ideas to get you started:
+## Technologies I Work With
+- **Front-End:** HTML, CSS, JavaScript, React, Next.js
+- **Back-End:** Node.js, Express, MongoDB, Prisma, SQL, Nest.js
+- **Tools:** Git, Docker, VSCode
+  
+## Projects
+- **Horizon:** A SaaS application to manage personal finances.
+- **GameHub** A modern website to look for trending video games.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Me
+- [LinkedIn](https://www.linkedin.com/in/mansoor-hussain-7b2b4b157/)
+- [Email](mailto:qaisrani07@gmail.com)
+
+Feel free to explore my repositories and connect with me!
